@@ -1,4 +1,4 @@
-# Copy the public key of the user's SSH key pair to the config directory
+# Copy the public key of the user's public SSH key to the config directory
 cp ~/.ssh/id_rsa.pub ./config
 
 # Build a Docker image with the name "devenv"
