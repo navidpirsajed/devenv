@@ -1,0 +1,17 @@
+python3-pip
+python3-dev
+build-essential
+openssh-server
+nano
+nodejs
+npm
+git
+curl
+wget
+vim
+net-tools
+iputils-ping
+zsh
+tar
+unzip
+sudo

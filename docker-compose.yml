@@ -1,0 +1,7 @@
+services:
+    devenv:
+        image: devenv
+        container_name: devenv
+        ports:
+            - "2222:22"
+        entrypoint: /entrypoint.sh
